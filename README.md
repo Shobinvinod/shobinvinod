@@ -7,7 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Robotic projects**
 
-- 📫 How to reach me **shobinvinod@gmail.com**
+- 📫 How to reach me
+-         **shobin.vinod@frm2.tum.de**
+-         **shobinvinod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
